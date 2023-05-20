@@ -1,5 +1,7 @@
 # 🎵 Justyfy Player
 
+## Demo: https://justynatomczyk7.github.io/Justyfy-Player
+
 ## Table of contents
 
 - [General info](#general-info)
